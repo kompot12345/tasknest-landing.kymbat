@@ -77,3 +77,4 @@ const isEven = number => number % 2 === 0;
 const numberCheck = Number(prompt("Введите число для проверки четности:"));
 // Показываем четное или нечетное число
 alert(isEven(numberCheck) ? "Число четное" : "Число нечетное");
+console.log("Second commit test");
